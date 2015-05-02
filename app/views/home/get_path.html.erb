@@ -1,0 +1,40 @@
+<h1>
+	<a target="_blank" href="http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?mode=&term=<%= @drug %>&field=entry">
+		<%= @drug %>
+	</a>
+	to
+	<a target="_blank" href="http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?mode=&term=<%= @target %>&field=entry">
+		<%= @target %>
+	</a>
+	Path List
+</h1>
+<table class="table">
+	<thead>
+	<tr>
+	  <th>#</th>
+	  <th>Path</th>
+	</tr>
+	</thead>
+	<tbody>
+	<% count = 0 %>
+	<% @data.each do |key| %>
+	<tr>
+	  <th scope="row"><%= count += 1 %></th>
+	  <td>
+	  <%= key.first %> 
+	  <% (1..(key.length-2)).each do |i| %>
+	  	<% if @model == 'ABC' and (i%2) == 1 %>
+	  		-- (<%= key[i] %>)
+	  	<% else %>
+	  		--> 
+		  	<a target="_blank" href="http://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?mode=&term=<%= key[i] %>&field=entry">
+		  	<%= key[i] %>
+		  	</a>
+		<% end %>
+	  <% end %>
+	   --> <%= key.last %>
+	  </td>
+	</tr>
+	<% end %>
+	</tbody>
+</table>

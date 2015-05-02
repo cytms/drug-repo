@@ -1,0 +1,67 @@
+Aspartame	0.17424954576911666	Fasting	0.055518974464514814	Disease Susceptibility
+Aspartame	0.16245682265283368	Blood Proteins	0.06761986882085558	Disease Susceptibility
+Aspartame	0.3831785452484333	Drinking	0.05692919715446332	Disease Susceptibility
+Aspartame	0.3978754611558828	Energy Intake	0.10475506752846664	Disease Susceptibility
+Aspartame	0.3295937340004377	Kindling, Neurologic	0.34665219394917446	Disease Susceptibility
+Aspartame	0.13683006415242926	Triglycerides	0.12211653721779991	Disease Susceptibility
+Aspartame	0.25727983716606395	Weight Loss	0.1269483447530636	Disease Susceptibility
+Aspartame	0.10856013962502464	Epinephrine	0.04002512108238465	Disease Susceptibility
+Aspartame	0.2827810048662339	Amino Acid Substitution	0.0418673690279705	Disease Susceptibility
+Aspartame	0.4208958812810234	Pentylenetetrazole	0.3082357207452511	Disease Susceptibility
+Aspartame	0.275333443060096	Homovanillic Acid	0.06056462350044256	Disease Susceptibility
+Aspartame	0.28159560591166277	Blood Glucose	0.09952854319385263	Disease Susceptibility
+Aspartame	0.24582292270417183	Catecholamines	0.025176264022074624	Disease Susceptibility
+Aspartame	0.27389643844125544	Glutamine	0.032459108012741766	Disease Susceptibility
+Aspartame	0.1964296879137265	Aspartate Aminotransferases	4.31587639741271E-4	Disease Susceptibility
+Aspartame	0.17723319981957641	Fatty Acids, Nonesterified	0.007873965625056156	Disease Susceptibility
+Aspartame	0.23268553263466585	Dietary Fats	0.20482873085593956	Disease Susceptibility
+Aspartame	0.23059655609721486	Ethanol	0.10707442489808738	Disease Susceptibility
+Aspartame	0.16458778185323641	Energy Metabolism	0.07074048872273964	Disease Susceptibility
+Aspartame	0.3022904657928137	Heterozygote	0.3284319460401196	Disease Susceptibility
+Aspartame	0.1483614646282344	Antigen-Antibody Complex	0.028090447622461157	Disease Susceptibility
+Aspartame	0.28423090442856935	Rheumatoid Factor	0.18960293934749672	Disease Susceptibility
+Aspartame	0.166580820052312	Sleep	0.032966769404975005	Disease Susceptibility
+Aspartame	0.18429281011698506	Norepinephrine	0.05356623240093972	Disease Susceptibility
+Aspartame	0.40718868067436764	Diet, Reducing	0.02899050980021889	Disease Susceptibility
+Aspartame	0.1536797157703771	Sex Characteristics	0.2655385205325994	Disease Susceptibility
+Aspartame	0.24590802735146355	N-Methylaspartate	0.08450257463294542	Disease Susceptibility
+Aspartame	0.23909999237712798	Nutritional Physiological Phenomena	0.14957512435422937	Disease Susceptibility
+Aspartame	0.6799689821968309	Saccharin	0.1827389017020008	Disease Susceptibility
+Aspartame	0.40686747889350894	Dietary Carbohydrates	0.07628936130367758	Disease Susceptibility
+Aspartame	0.29635554081909354	Teratogens	0.08549568831265875	Disease Susceptibility
+Aspartame	0.29007205941112846	Weaning	0.2211476709464999	Disease Susceptibility
+Aspartame	0.1444413529898665	Copper	0.0321087348791278	Disease Susceptibility
+Aspartame	0.21074210826942374	Electrolytes	0.05503789858513519	Disease Susceptibility
+Aspartame	0.04149028435899371	Carrier Proteins	0.09720436294979518	Disease Susceptibility
+Aspartame	0.34887282762420446	Diterpenes	0.0050784494449790385	Disease Susceptibility
+Aspartame	0.2665400623799371	Caffeine	0.3550114718502281	Disease Susceptibility
+Aspartame	0.4721014359407023	Aspartic Acid	0.11834540721028486	Disease Susceptibility
+Aspartame	0.19773736055435054	Lactation	0.13060737203833972	Disease Susceptibility
+Aspartame	0.5769796560892707	Diet, Cariogenic	0.21386923559682602	Disease Susceptibility
+Aspartame	0.34482261108855616	Terpenes	0.21643379314250033	Disease Susceptibility
+Aspartame	0.42732229223995777	Biogenic Monoamines	0.12869897860423984	Disease Susceptibility
+Aspartame	0.14558894895397545	Biotransformation	0.05149350930577179	Disease Susceptibility
+Aspartame	0.35029196883295477	Glutamates	0.011443188808687776	Disease Susceptibility
+Aspartame	0.19871680612230425	Alanine Transaminase	0.02229473984781205	Disease Susceptibility
+Aspartame	0.19136170870872615	Body Temperature Regulation	0.0800761912048723	Disease Susceptibility
+Aspartame	0.3556265793757283	Biogenic Amines	0.08159830172960425	Disease Susceptibility
+Aspartame	0.21413679726788415	Neurotransmitter Agents	0.06706051256764767	Disease Susceptibility
+Aspartame	1.0	Insulin	0.08721090521304309	Disease Susceptibility
+Aspartame	0.24079777321318152	Serotonin	0.009883529581298456	Disease Susceptibility
+Aspartame	0.28376456437886	Glutamic Acid	0.0015816349495345605	Disease Susceptibility
+Aspartame	0.2992812207308705	Postural Balance	0.08886087661716036	Disease Susceptibility
+Aspartame	0.4965496043263913	Cariostatic Agents	0.21717194120046646	Disease Susceptibility
+Aspartame	0.1952130784545748	Receptors, N-Methyl-D-Aspartate	0.017337252931110436	Disease Susceptibility
+Aspartame	0.5396742951240814	Taste	0.019886755399907807	Disease Susceptibility
+Aspartame	0.3315607013599219	Citric Acid	0.018301330921063008	Disease Susceptibility
+Aspartame	0.023394151056601364	Immunoglobulin G	0.21619623544135558	Disease Susceptibility
+Aspartame	0.09459050076309317	Immunoglobulin M	0.19938131144743332	Disease Susceptibility
+Aspartame	0.26340858956847557	Dietary Proteins	0.08436604701650974	Disease Susceptibility
+Aspartame	0.4000935148941318	Hydroxyindoleacetic Acid	0.07818158294912692	Disease Susceptibility
+Aspartame	1.0	Aryl Hydrocarbon Hydroxylases	0.18185930177145904	Disease Susceptibility
+Aspartame	1.0	Cytochrome P-450 CYP2E1	0.3391753441689026	Disease Susceptibility
+Aspartame	1.0	Prothrombin	0.20214197529380806	Disease Susceptibility
+Aspartame	1.0	Proto-Oncogene Proteins p21(ras)	0.060854844993009305	Disease Susceptibility
+Aspartame	1.0	Interleukin-6	0.1068845593325638	Disease Susceptibility
+Aspartame	1.0	Membrane Transport Proteins	0.1109774143957648	Disease Susceptibility
+Aspartame	1.0	Tumor Suppressor Protein p53	0.09184393555870218	Disease Susceptibility

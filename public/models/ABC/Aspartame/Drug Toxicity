@@ -1,0 +1,12 @@
+Aspartame	0.13242093526396237	Biological Transport	0.10836361981244258	Drug Toxicity
+Aspartame	0.2085386838705876	Drug Interactions	0.20630995381438555	Drug Toxicity
+Aspartame	0.17281001845188082	Intestinal Absorption	0.19834627974327812	Drug Toxicity
+Aspartame	0.29635554081909354	Teratogens	0.3831283029841749	Drug Toxicity
+Aspartame	0.04149028435899371	Carrier Proteins	1.0	Drug Toxicity
+Aspartame	0.10004079243130226	Drug Synergism	0.21885227744432068	Drug Toxicity
+Aspartame	0.14558894895397545	Biotransformation	0.4022076537973498	Drug Toxicity
+Aspartame	0.16863350537423305	Biological Availability	0.27270672646910954	Drug Toxicity
+Aspartame	0.12228083021326042	Tissue Distribution	0.09194359862649026	Drug Toxicity
+Aspartame	1.0	Aryl Hydrocarbon Hydroxylases	1.0	Drug Toxicity
+Aspartame	1.0	Cytochrome P-450 CYP2E1	1.0	Drug Toxicity
+Aspartame	1.0	Tumor Suppressor Protein p53	1.0	Drug Toxicity
